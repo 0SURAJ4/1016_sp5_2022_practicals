@@ -2,4 +2,23 @@
 git config --global user.name "0SURAJ4"
 git config --global user.email kumsy037@mymail.unisa.edu.au
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 My webpage is on **the impact of technology in defence force and wars around the world**. There would be three main topic for this webpage first ***todays technology impacting the military***. Information warfare in military is pretty commonly used and it has solved many problems in the past and the present so to have a better understanding let’s look at the chronology of it. Also, Technology shapes warfare, not war. Personal computers (PCs) with modems started to appear more often in the late 1970s, not long after computer networks started to take off. Most of such machines were essentially property of commercial companies, where some programmers had created information database software that permitted users to exchange files and messages with the help of Internet, however, was the system that would fundamentally alter this circumstance.                                          Secoundly, ***the revolution of technology in military***. the most crucial verb for defining how technology affects combat is "changes" Throughout history, technology has been the main driver of military innovation. More than any other aspect, it is what changes how war is fought. The years, warfare has advanced from rudimentary conflicts between tribal civilizations to conflicts between agrarian-based societies, and then to conflicts between industrialised societies. From warfare with bows and arrows to rifles, artillery, tanks, aircraft, and missiles, mankind has advanced progressively Third, ***future trends of technology in military*** which is the robotics and artifical intelligence, hypersonic system and blockchain. lastly, this webpage will include images of the military technology.   
