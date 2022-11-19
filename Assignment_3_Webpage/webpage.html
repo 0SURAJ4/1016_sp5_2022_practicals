@@ -1,6 +1,5 @@
 
-git config --global user.name "0SURAJ4"
-git config --global user.email kumsy037@mymail.unisa.edu.au
+
 
 <!DOCTYPE html>
 <html>
@@ -8,7 +7,27 @@ git config --global user.email kumsy037@mymail.unisa.edu.au
             <meta charset="utf-8">
                 <title>My page title</title>
                     <link rel="stylesheet" href="base.css"> 
-                       <script></script>
+                       <script>
+                        
+    window.onload = function () { 
+
+        var kgf = location.search.replace(/\?kgf=/g, ''  );
+
+            if   (kgf)  
+            {
+                 localStorage.setItem("kgf", kgf);
+            }            
+            if  (localStorage.getItem("kgf")   ) 
+            {
+                 document.querySelector("h2") 
+                
+                .innerHTML =
+                
+                "Hello "+ localStorage.getItem("kgf")
+            }
+        }
+
+                       </script>
                        <style>
                         button1 {
                             background-color: #31991c;
@@ -52,13 +71,11 @@ git config --global user.email kumsy037@mymail.unisa.edu.au
                              }
                              
                             </style>
-                            
-
-                       
+                    
 </head>  
 <body>    
     <header>      
-        <h1>Header</h1>      
+        <h2>Header</h2>      
         <button onclick="">Toggle Theme</button>
        </header>    
 <nav>      
@@ -72,7 +89,7 @@ git config --global user.email kumsy037@mymail.unisa.edu.au
     </ul>  
     <br>     
     <form>         
-        <input type="text" name="user_name" placeholder="Enter your name!">         
+        <input type="text" name="kgf" placeholder="Enter your name!">         
         <button type="submit">Apply!</button>       
     </form>     
 </nav> 
